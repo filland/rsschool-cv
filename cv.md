@@ -1,9 +1,10 @@
-#### Name: Aliaksei Kurbatau
+### Name: 
+Aliaksei Kurbatau
 
-#### Contact info:
-   github:  [https://github.com/filland](https://github.com/filland)
+### Contact info:
+github:  [https://github.com/filland](https://github.com/filland)
     
-#### Summary: 
+### Summary: 
 I really want to become a fullstack software engineer. I work as a Java software engineer and had a chance to learn some frontend stuff but I felt that I need some fundamental knowledge. That is why I decided to enroll in RS course.
 
 ### Skills:
