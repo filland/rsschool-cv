@@ -11,3 +11,10 @@
 * todo list:
   * backend: API written in Java using Spring Boot
   * frontend: SPA written in JS using React (reactjs, react redux, react router, react thunk) 
+
+### Education:
+    BNTU, IE faculty, Electronic Engineer 
+
+### English:
+    Passed courses about 3 years ago. Have been using English on a daily basis since 2018
+    
