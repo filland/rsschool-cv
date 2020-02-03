@@ -7,5 +7,7 @@
 ### Skills:
  Java, Spring, Hibernate, SQL, Javascript, React, Git, SCRUM, IntelliJ IDEA, Visual Studio Code
 
-
-    
+### Code examples:
+* todo list:
+  * backend: API written in Java using Spring Boot
+  * frontend: SPA written in JS using React (reactjs, react redux, react router, react thunk) 
