@@ -1,0 +1,11 @@
+#### Name: Aliaksei Kurbatau
+#### Contact info:
+    github:  https://github.com/filland
+#### Summary: 
+> I really want to become a fullstack software engineer. I work as a Java software engineer and had a chance to learn some frontend stuff but I felt that I need some fundamental knowledge. That is why I decided to enroll in RS course.
+
+### Skills:
+ Java, Spring, Hibernate, SQL, Javascript, React, Git, SCRUM, IntelliJ IDEA, Visual Studio Code
+
+
+    
