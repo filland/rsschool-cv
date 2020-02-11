@@ -1,0 +1,135 @@
+
+body {
+    font-family: Verdana, "Arial", sans-serif;
+    background-color: #f3f3f3;
+}
+
+h1, h2, h3, h4, h5 {
+    margin: 0 0 10px 0;
+    padding: 0;
+}
+
+p {
+    margin: 0 0 10px 0;
+    padding: 0;
+}
+
+.main {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+    width: 750px;
+
+    background-color: white;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/*
+====================
+header
+====================
+*/
+
+header {
+    padding-bottom: 5px;
+}
+
+.header-img {
+    width: 180px;
+    float: left;
+    margin-right: 20px;
+}
+
+.header-name {
+    float: left;
+}
+
+.header-contacts {
+    float: right;
+}
+
+.header-contacts div {
+    margin-bottom: 10px;
+}
+
+.header-contacts div {
+    text-align: right;
+}
+
+.header-contacts .contact-logo {
+    height: 16px;
+    fill: #479a8f;
+}
+
+/*
+====================
+summary
+====================
+*/
+
+.summary {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+/*
+====================
+info
+====================
+*/
+
+.info > div {
+    float: left;
+    width: 50%;
+}
+
+.info article {
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.info h3 {
+    text-transform: uppercase;
+    border-bottom: solid 2px #479a8f;
+}
+
+.skills span {
+    display: block;
+    float: left;
+    padding: 5px 10px;
+    margin: 5px;
+
+    color: white;
+
+    background-color: #479a8f;
+    border-radius: 5px;
+}
+
+.code-examples ul {
+    margin: 0;
+}
+
+.education p {
+    margin-bottom: 5px;
+}
+
+.education .degree {
+    font-weight: bold;
+}
+
+.education .year {
+    font-size: 12px;
+    color: #479a8f;
+}
+
+
