@@ -61,6 +61,10 @@ header {
     margin-bottom: 10px;
 }
 
+.header-contacts div {
+    text-align: right;
+}
+
 .header-contacts .contact-logo {
     height: 16px;
     fill: #479a8f;
