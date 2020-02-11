@@ -17,8 +17,7 @@ p {
 .main {
     margin-left: auto;
     margin-right: auto;
-    padding-left: 25px;
-    padding-right: 25px;
+    padding: 25px;
     width: 750px;
 
     background-color: white;
@@ -41,7 +40,6 @@ header
 */
 
 header {
-    padding-top: 25px;
     padding-bottom: 5px;
 }
 
@@ -85,14 +83,15 @@ summary
 info
 ====================
 */
-.info {
-    padding-bottom: 10px;
+
+.info > div {
+    float: left;
+    width: 50%;
 }
 
 .info article {
     padding: 5px;
-    float: left;
-    width: 45%;
+    margin-bottom: 10px;
 }
 
 .info h3 {
@@ -110,6 +109,10 @@ info
 
     background-color: #479a8f;
     border-radius: 5px;
+}
+
+.code-examples ul {
+    margin: 0;
 }
 
 .education p {
